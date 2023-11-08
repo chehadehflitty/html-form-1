@@ -16,3 +16,11 @@ body{
   border-width: 1px;
 }
 
+.second{
+  display: flex;
+  justify-content: space-between;
+  padding: 7px;
+  border-bottom: solid;
+  border-width: 1px;
+}
+
