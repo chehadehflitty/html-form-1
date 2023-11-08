@@ -24,3 +24,20 @@ body{
   border-width: 1px;
 }
 
+.third{
+  display: flex;
+  justify-content: space-between;
+}
+
+.left{
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
+.right{
+  display: flex;
+  justify-content: space-between;
+  margin: 5px;
+}
+
