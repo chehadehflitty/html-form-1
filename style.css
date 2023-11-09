@@ -33,12 +33,16 @@ body{
   display: flex;
   justify-content: space-between;
   margin: 5px;
+  align-items: center;
+  height: 25px;
 }
 
 .right{
   display: flex;
   justify-content: space-between;
   margin: 5px;
+  align-items: center;
+  height: 25px;
 }
 
 .fourth{
@@ -96,5 +100,11 @@ body{
   border-style: dashed;
   justify-content: space-between;
   padding-left: 200px;
+}
+
+.fifth{
+  display: flex;
+  justify-content: space-between;
+  align-items: end;
 }
 
