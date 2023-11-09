@@ -108,3 +108,10 @@ body{
   align-items: end;
 }
 
+.sixth{
+  display: flex;
+  justify-content: space-between;
+  padding: 7px;
+  border-top: solid;
+  border-width: 1px;
+}
