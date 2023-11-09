@@ -41,3 +41,60 @@ body{
   margin: 5px;
 }
 
+.fourth{
+  border: solid;
+  border-width: 1px;
+}
+
+.fourth1{
+  display: flex;
+  height: 30px;
+  align-items: center;
+  background-color: silver;
+  border: solid;
+  border-width: 1px;
+  margin: 3px;
+}
+
+.fourth1 p{
+  margin-left: 10px;
+}
+
+.fourth2{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 36px;
+  margin: 10px;
+}
+
+.fourth2 p{
+  color: blue;
+  line-height: 14px;
+}
+
+.fourth3{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 36px;
+  margin: 10px;
+}
+
+.fourth3 p{
+  line-height: 14px;
+}
+
+.name{
+  color: blue;
+}
+
+.last{
+  display: flex;
+  border-top: solid;
+  border-width: 1px;
+  border-style: dashed;
+  justify-content: space-between;
+  padding-left: 200px;
+}
+
